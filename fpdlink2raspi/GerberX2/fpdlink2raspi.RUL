@@ -1,0 +1,21 @@
+DRC Rules Export File for PCB: C:\Daten\fpdlinkANDraspi\fpdlink2raspi\altium\pcb\fpdlink2raspi.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_to_Poly_DIffpairs|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_DIffpairs|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=SE_50Ohm|Scope=Board|Minimum=5.67
+RuleKind=Clearance|RuleName=Clearance_Keepoutpads|Scope=Board|Minimum=0.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_General|Scope=Board|Minimum=2.36
+RuleKind=SolderMaskExpansion|RuleName=SolderMask_Fiducial|Scope=Board|Minimum=39.37
+RuleKind=SolderMaskExpansion|RuleName=Via_Tenting|Scope=Board|Minimum=-19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_FinePitch|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=General_Nom|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=General_Min|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=Top_Layer_Width|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Bottom_Layer_Width|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Non_Critical_Width|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Power Connections|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_Nom|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=NPTH Clearance|Scope=Board|Minimum=13.78
+RuleKind=Clearance|RuleName=Via_Via_Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Fidicual Clearance|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_to_Poly_General|Scope=Board|Minimum=7.87

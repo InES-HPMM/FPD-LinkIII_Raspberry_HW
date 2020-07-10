@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: fpdlink2raspi.GBR   10.07.2020  12:57:53
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                L1-Top                                  
+.gbr                L2-Sig                                  
+.gbr                L3-Sig                                  
+.gbr                L4-Bottom                               
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                BottomPaste                             
+.gbr                BottomSolder                            
+.gbr                TopPaste                                
+.gbr                TopSolder                               
+.gbr                KeepOutLayer                            
+.gbr                Mechanical 21                           
+.gbr                M14 - Bottom Assy                       
+.gbr                M19 - RefDes_Outline                    
+.gbr                M16 - Bottom_Courtyard                  
+.gbr                M01 - Board Outline                     
+.gbr                M22- Assy_Value-B                       
+.gbr                M07 - Component_Outlines                
+.gbr                M15 - Top_Courtyard                     
+.gbr                M23 - RefDes_Outline-B                  
+.gbr                M13 - Top_Assy                          
+.gbr                M11 - Assy_RefDes                       
+.gbr                M12 - Assy_Value                        
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------
