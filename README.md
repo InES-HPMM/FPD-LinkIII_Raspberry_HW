@@ -24,7 +24,7 @@ __Additionally we provide an open source driver for TI devices DS90UB954 paired 
 |                   | <----- |                      |  Coax  |                    | <----- |                  |
 | Raspberry Pi (4)  |  GPIO  | fpdlink2raspi        | <----> | piCam2fpdlink      |  GPIO  | Raspberry Pi     |
 | Jetson Nano       | <----> | PCB                  |        | PCB                | <----> | Camera Module v2 |
-| ...               |   I2C  |                      |        |                    |   I2C  |                  |
+| ...               |   I2C  | DS90UB954            |        | DS90UB953          |   I2C  |                  |
 |                   | <----> |                      |        |                    | <----> |                  |
 \-------------------/        \----------------------/        \--------------------/        \------------------/
 ```
